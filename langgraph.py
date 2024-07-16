@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1IfKxgprZAsblk3rQ0dhRZmbaHM6W3awX
 """
 
-
 from langgraph.graph import END, StateGraph
 from typing_extensions import TypedDict
 
